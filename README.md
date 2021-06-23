@@ -22,4 +22,3 @@ Games benefit:
 - Fun and enjoyment
 - Teaches how to play using different levels of complexity; Level 1, 2, 3 and "Learn" 
 - Brings some of the traditional African Bao games to the digital world.
-- 
