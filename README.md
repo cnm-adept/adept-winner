@@ -13,7 +13,7 @@ Summary
 
 Publisher, Copyright holder:
 - "Bao Electronic Board Game" on Apple App Store
-- 楽しい作戦バオ宝石ゲーム - "Fun Strategy Bao Gem Game" on Apple App Store in both Japanese and English
+- 楽しい作戦バオ宝石ゲーム - "Fun Strategy Bao Gem Game" on Apple App Store in both Japanese and English. Game is language neutral. Language used in describing rules, help, preferences and menu.
 
 Games benefit:
 - Relax
