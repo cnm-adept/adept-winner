@@ -11,4 +11,15 @@ Summary
 - Experienced in: C/GTK/GDK GUI, HTML, CSS, Android Studio - Java
 - Experienced in project management, design, consultancy and research
 
-Publisher, Copyright holder: "Bao Electronic Board Game" in Apple App Store
+Publisher, Copyright holder:
+- "Bao Electronic Board Game" on Apple App Store
+- 楽しい作戦バオ宝石ゲーム - "Fun Strategy Bao Gem Game" on Apple App Store in both Japanese and English
+
+Games benefit:
+- Relax
+- Exercise strategic thinking skills in an enjoyable way
+- Socialize
+- Fun and enjoyment
+- Teaches how to play using different levels of complexity; Level 1, 2, 3 and "Learn" 
+- Brings some of the traditional African Bao games to the digital world.
+- 
